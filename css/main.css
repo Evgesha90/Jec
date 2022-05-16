@@ -95,3 +95,11 @@ body {
 	}
 
 }
+@media (max-width : 720px) {
+	.gallery {
+		width: 100%;
+		column-width: 8em;
+		transform: scale(2);
+	}
+
+}
